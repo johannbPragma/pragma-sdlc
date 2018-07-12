@@ -1,0 +1,20 @@
+<application>
+  <component name="org.jetbrains.tfsIntegration.core.configuration.TFSConfigurationManager">
+    <option name="config">
+      <map>
+        <server uri="http://prods-tfs:8080/Pragma/">
+          <value>
+            <configuration>
+              <credentials>
+                <credentials>
+                  <domain>pragma</domain>
+                  <username>johannb</username>
+                </credentials>
+              </credentials>
+            </configuration>
+          </value>
+        </server>
+      </map>
+    </option>
+  </component>
+</application>
