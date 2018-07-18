@@ -1,0 +1,6 @@
+<keymap version="1" name="Rider copy" parent="Rider">
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+    <mouse-shortcut keystroke="control button1" />
+  </action>
+</keymap>
